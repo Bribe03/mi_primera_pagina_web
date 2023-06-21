@@ -157,3 +157,6 @@ video{
     margin: 10px;
     border: 2px black solid;
 }
+.greeting{
+    text-align: end;
+}
